@@ -1,18 +1,12 @@
 # 넷챠
 
- [기획안 [넷차-NETCHA\]](https://www.notion.so/NETCHA-72ed718f85484ea88000e5e69d0e089d)
+ [Notion : [넷차-NETCHA\]](https://www.notion.so/NETCHA-72ed718f85484ea88000e5e69d0e089d)
 
 ------
 
 ## ✒ 서비스 한 줄 요약
 
 넷플릭스, 왓챠, 왓챠피디아를 클론 코딩한 개인화 추천알고리즘 기반 스트리밍, 영화 취향 분석 웹서비스
-
-
-
-## 🎫 프로젝트명
-
-넷챠 (NETCHA)
 
 
 
@@ -25,6 +19,8 @@
 ## 👥 팀 구성
 
 <img src="./README.assets/team-Members.png" />
+
+
 
 ## 📑 프로젝트 상세 소개
 
@@ -54,21 +50,23 @@
 
 ## 🔎 상세 화면 및 서비스 흐름 구성
 
-- 추후 업데이트 예정
-
-- Netcha
+- 넷챠
  [상세화면 및 테스트케이스](https://www.notion.so/bd8693c94a1d4ce4a826cd55bea22302)
 
 
-- **넷차피디아 바로가기**
+- 넷챠피디아
 
   [상세화면 및 테스트케이스](https://www.notion.so/bd8693c94a1d4ce4a826cd55bea22302)
 
+
+
 ## 🗓️ 개발 일정
 
-- **개발 일정 바로가기**
+- 개발 일정(notion으로 관리했어요 ! )
 
-  [개발일정](https://www.notion.so/583dbaed2966424989dbe030a35ce373)
+  <img src="./README.assets/plan.png" />
+  
+  
 
 ## 📚 기술 스택
 
@@ -93,23 +91,22 @@
   - Jira
   - notion
 
+
+
 ## 🎲 개발 규칙
 
-- 개발 일정(notion으로 관리했어요 ! )
-
-  <img src="./README.assets/plan.png" />
-
-- GIT
-
+- **GIT**
   - git branch feature 이름 규칙 : 'feature/FE_admin'
   - git commit 규칙 : '0322_FE : 'commit 내용'
-
-- JIRA(epic 이름 규칙)
-
+  
+- **JIRA(epic 이름 규칙)**
   - 백엔드 : [B] 기능명
   - 프론트엔드 :  [F-넷챠] 기능명 , [F-넷챠피디아] 기능명
 
+
+
 ## ⚙ 설치 방법
+
 - **백엔드**
 
   ```bash
