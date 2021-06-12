@@ -1,14 +1,12 @@
-# [넷챠](https://lab.ssafy.com/s04-bigdata-sub2/s04p23d105) - 비디오 스트리밍 웹서비스  
+# 넷챠
 
- ![](https://badgen.net/gitlab/last-commit/gitlab-org/gitlab-development-kit) ![](https://badgen.net/gitlab/contributors/graphviz/graphviz) ![](https://badgen.net/gitlab/license/gitlab-org/omnibus-gitlab)
-
-[기획안 [넷차-NETCHA\]](https://www.notion.so/NETCHA-72ed718f85484ea88000e5e69d0e089d)
+ [기획안 [넷차-NETCHA\]](https://www.notion.so/NETCHA-72ed718f85484ea88000e5e69d0e089d)
 
 ------
 
 ## ✒ 서비스 한 줄 요약
 
-넷챠는 넷플릭스와 왓차처럼 개인화 된 추천알고리즘을 기반으로한 비디오 스트리밍 웹서비스를 만들어보자는 취지에서 만들어진 프로젝트입니다.
+넷플릭스, 왓챠, 왓챠피디아를 클론 코딩한 개인화 추천알고리즘 기반 스트리밍, 영화 취향 분석 웹서비스
 
 
 
@@ -26,9 +24,7 @@
 
 ## 👥 팀 구성
 
-[팀원](https://www.notion.so/3ec126c165b34b9da24507dbb7b2e149)
-
-
+<img src="./README.assets/team-Members.png" />
 
 ## 📑 프로젝트 상세 소개
 
@@ -99,9 +95,19 @@
 
 ## 🎲 개발 규칙
 
-- **개발 일정 바로가기**
+- 개발 일정(notion으로 관리했어요 ! )
 
-  [규칙](https://www.notion.so/ef4e38f64d1f4db39ab3270333118876)
+  <img src="./README.assets/plan.png" />
+
+- GIT
+
+  - git branch feature 이름 규칙 : 'feature/FE_admin'
+  - git commit 규칙 : '0322_FE : 'commit 내용'
+
+- JIRA(epic 이름 규칙)
+
+  - 백엔드 : [B] 기능명
+  - 프론트엔드 :  [F-넷챠] 기능명 , [F-넷챠피디아] 기능명
 
 ## ⚙ 설치 방법
 - **백엔드**
